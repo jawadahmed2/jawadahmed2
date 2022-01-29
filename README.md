@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jawad Ahmed.
 - 👀 I’m interested in python based projects.
-- 🌱 I’m currently learning python libraries like django, pandas etc.
+- 🌱 I’m working in python libraries like django, pandas, numpy, tensorflow, scipy etc.
 - 💞️ I’m looking to collaborate on open source software.
 - 📫 How to reach me jawad.kohat2002@gmail.com
 
