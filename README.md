@@ -11,7 +11,7 @@
   <a href="mailto:yousaf2018@namal.edu.pk?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/mahmood-yousaf" target="_blank">
+   <a href="https://www.linkedin.com/in/jawad-a-892149141" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://www.instagram.com/yousaf_mahmood" target="_blank">
