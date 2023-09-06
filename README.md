@@ -14,9 +14,9 @@
    <a href="https://www.linkedin.com/in/jawad-a-892149141" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="https://www.instagram.com/yousaf_mahmood" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>  
+  <a href="whatsapp://send?phone=03119174048" target="_blank">
+      <img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-E4405F?style=for-the-badge&logo=whatsapp&logoColor=green">
+  </a>
   </p>
 
 
