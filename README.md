@@ -180,7 +180,7 @@
   </a>
       </a>
     <a href="" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-777BB4?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
     <a href="https://www.mysql.com/">
 	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -200,7 +200,7 @@
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img alt="GCP" src="https://img.shields.io/badge/Azure-4285F4?style=for-the-badge&logo=azure-cloud&logoColor=white">
   </a>  
 </p>
  
@@ -210,7 +210,7 @@
 <p
   
   <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/-Android%20native%20application%20development%20using%20java-blue?style=for-the-badge&logo=android&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/-Android%20native%20application%20development%20using%20Dart-blue?style=for-the-badge&logo=android&logoColor=white">
   </a>
  </p>
  
@@ -218,10 +218,6 @@
  
 ### Desktop applications development
 <p
-  
-  <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/-Electron%20JS-red?style=for-the-badge&logo=electron&logoColor=white">
-  </a>
  </p>
    <a href="" target="_blank">
     <img alt="" src="https://img.shields.io/badge/-pyqt-green?style=for-the-badge&logo=pyqt&logoColor=white">
