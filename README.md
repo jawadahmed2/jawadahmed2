@@ -69,9 +69,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Matplotlib-blue?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="jetbrains" />
   </a>
-</p>
 
-<p  
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="jetbrains" />
   </a>
