@@ -203,31 +203,11 @@
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="GCP" src="https://img.shields.io/badge/Azure-4285F4?style=for-the-badge&logo=azure-cloud&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-4285F4?style=for-the-badge&logo=azure-cloud&logoColor=white">
   </a>  
 </p>
  
- 
- 
- ### Android applications development
-<p
-  
-  <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/-Android%20native%20application%20development%20using%20Dart-blue?style=for-the-badge&logo=android&logoColor=white">
-  </a>
- </p>
- 
- 
- 
-### Desktop applications development
-<p
- </p>
-   <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/-pyqt-green?style=for-the-badge&logo=pyqt&logoColor=white">
-  </a>
- </p>
- 
- <p
+
   
 
  
