@@ -20,7 +20,7 @@
   </p>
 
 
-<p >A results-oriented computer scientist with a diverse skill set encompassing various programming languages and frameworks such as Python, Java, and bash scripting. I've successfully completed projects spanning artificial intelligence, database management, and web development, nurturing robust analytical and technical abilities. Collaborative team player known for resilience and dedication. Experienced in both machine learning and web development. Here adding another experience that is DevOps.
+<p >A results-oriented computer scientist with a diverse skill set encompassing various programming languages and frameworks such as Python, R, Java, and bash scripting. I've successfully completed projects spanning artificial intelligence, database management, and web development, nurturing robust analytical and technical abilities. Collaborative team player known for resilience and dedication. Experienced in both machine learning and web development. Here adding another experience that is MLOps.
 </p>
 
 
@@ -59,6 +59,9 @@
     <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
     <a href="" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white">
+  </a>
+      <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=white">
   </a>
 
