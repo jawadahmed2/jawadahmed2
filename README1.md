@@ -21,7 +21,7 @@ A results-oriented computer scientist with a diverse skill set encompassing vari
 
 ### 🤖 Machine Learning
 
-### 🌐 Frontend
+### 🌐 Frontend & 🔧 Backend
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -69,11 +69,9 @@ A results-oriented computer scientist with a diverse skill set encompassing vari
 
 ### 🔗 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-chandekar-a87263219)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanchandekar1)
-[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranChandekar)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=7798227672&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanchandekar431@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-a-892149141)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+923119174048&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawad.kohat2002@gmail.com)
 
 #
 
