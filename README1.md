@@ -11,7 +11,7 @@ A results-oriented computer scientist with a diverse skill set encompassing vari
 ### 🚀 More about me
 
 - 🌱 I’m currently working as a **Machine Learning Engineer**
-- 👨‍💻 Personal portfolio: **<a href="[https://karanchandekar.vercel.app/](https://github.com/jawadahmed2?tab=repositories)" target="_blank">Portfolio</a>**
+- 👨‍💻 Personal portfolio: **<a href="https://github.com/jawadahmed2?tab=repositories" target="_blank">Portfolio</a>**
 - 📫 How to reach me: **jawad.kohat2002@gmail.com**
 - ⚡ Fun fact **I am deeply in love with AI ❤️**
 
