@@ -79,8 +79,8 @@ A results-oriented computer scientist with a diverse skill set encompassing vari
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=jawadahmed2&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="jawadahmed" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadahmed2&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="jawadahmed" /></td
   </tr>
 </table>
 
